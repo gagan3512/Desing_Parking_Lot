@@ -2,6 +2,4 @@
 
 
 Designing Parking Lot using java.
-Complete Projct .
-
 
